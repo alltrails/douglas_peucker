@@ -2,3 +2,8 @@
 .bundle
 Gemfile.lock
 pkg/*
+# local AI agent state (shared config under .claude/ stays trackable)
+.claude/settings.local.json
+.claude/.cc-writes/
+.claude/.headroom_wrap_marker.json
+.serena/
