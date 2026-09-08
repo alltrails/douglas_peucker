@@ -8,3 +8,4 @@ pkg/*
 .claude/.cc-writes/
 .claude/.headroom_wrap_marker.json
 .serena/
+graphify-out/
